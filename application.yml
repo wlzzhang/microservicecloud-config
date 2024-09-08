@@ -11,4 +11,4 @@ spring:
 spring:
   profiles: test
   application:
-    name: mirocservicecloud-config-example-dev
+    name: mirocservicecloud-config-example-test
